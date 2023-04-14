@@ -2,6 +2,7 @@
  Asynchronous Buck Converter
  
 Note - OPA4197 is used, I put LT1014 on schematic because opa shown as one IC on easyEDA lib to schematic. Opamp shape make schematic more readable.
+Compensator values are wrong!!!
 
 
 Perf Board
